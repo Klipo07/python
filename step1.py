@@ -71,5 +71,3 @@ if player['hp'] > 0:
 else:
     print(f'Противник - {enemy["name"]}: {enemy["loss"]}')
 
-
-
